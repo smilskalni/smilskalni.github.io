@@ -1,0 +1,81 @@
+body {
+ font-family: sans-serif /*{global-font-family}*/;
+ line-height: 1.3em;
+ text-shadow: none;
+ font-size: 1.6em;
+}
+h1 {
+ font-size: 1.8em;
+}
+figure {
+ display: block;
+ margin: 0;
+}
+img {
+ max-width: 100%;
+ height: auto;
+}
+header, footer, nav.navbar {
+  color: white;
+  background-color: #ba0f31;
+ }
+.navbar {
+  border: none;
+  border-radius: 0;
+}
+.navbar-default .navbar-nav>li>a,
+.navbar-default .navbar-nav>li>a:focus,
+.navbar-default .navbar-nav>li>a:hover {
+ color: white;
+}
+.navbar-toggle {
+ border: none;
+}
+.navbar-default .navbar-toggle .icon-bar {
+ background-color: #ddd;
+}
+.navbar-default .navbar-toggle:focus,
+.navbar-default .navbar-toggle:hover {
+ background-color: #ba0f31;
+} 
+footer a, footer a:hover, footer a:visited, footer a:focus {
+ color: white;
+ text-decoration: none;
+}
+header h1 {
+ color: white;
+}
+ header figure#logo {
+ text-align: center;
+}
+.center {
+ text-align: center;
+}
+.container {
+ padding: 0.8em;
+}
+h1, p, li {
+ margin: 0.7em 0 0.7em 0;
+}
+
+
+@media screen and (min-width: 600px) {
+body {
+ line-height: 1.3em;
+ font-size: 2.0em;
+}
+h1 {
+ text-align:center;
+ font-size: 2.4em;
+ font-weight: bold;
+}
+.container {
+  margin: auto;
+
+  padding: 20px 5%;
+}
+p {
+ text-indent: 35px;
+}
+
+}
