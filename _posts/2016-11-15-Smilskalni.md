@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Smilškalni
-permalink: /par-mums/
+url: /par-mums/
 ---
 Latvieši vīna gatavošanai jau izsenis izmantojuši ogu kultūras, kas sastopamas pašmāju dārzos.
 Saimniecības pamatdarbības veids ir dārzkopība - krūmogulāju - aveņu, kazeņu, upeņu, smiltsērkšķu - audzēšana.
