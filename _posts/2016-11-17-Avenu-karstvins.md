@@ -2,6 +2,6 @@
 layout: post
 title: Laiks karstvīnam.
 ---
-Kuldīgas aveņu karstvīns!
+Sasildies šajā drēgnajā ziemas laikā ar mūsu aveņu karstvīnu kadiķogu kompānijā.
 
-<img src="{{ site.baseurl }}/images/karstvins.jpg" alt="Karstvīna pudeles ar lentītēm" title="Karstvīna pudeles ar lentītēm" />
+<img src="{{ site.baseurl }}/images/karstvins.jpg" alt="Karstvīna pudeles ar svinīgām lentītēm" title="Karstvīna pudeles ar svinīgām lentītēm" />
