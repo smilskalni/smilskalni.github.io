@@ -42,9 +42,10 @@ header, footer, nav.navbar {
  background-color: #ba0f31;
 } 
 
-@media screen and (max-width: 767px)
+@media screen and (max-width: 767px) {
  .navbar-default .navbar-nav .open .dropdown-menu>li>a {
  color: white;
+}
 }
 footer a, footer a:hover, footer a:visited, footer a:focus {
  color: white;
