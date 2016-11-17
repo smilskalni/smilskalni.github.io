@@ -34,7 +34,9 @@ header, footer, nav.navbar {
 .navbar-default .navbar-toggle .icon-bar {
  background-color: #ddd;
 }
-.navbar-nav>.open>a {
+.navbar-default .navbar-nav>.open>a,
+.navbar-default .navbar-nav>.open>a:focus,
+.navbar-default .navbar-nav>.open>a:hover
  background-color: #fff;
 }
 .navbar-default .navbar-toggle:focus,
