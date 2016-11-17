@@ -15,12 +15,12 @@ ZS Smilškalni vīni, pielietojot dabīgo raudzēšanas procesu, darināti no og
 
 Cenšamies, lai mūsu izvirzītais mērķis: gardi vīni no ogām mūsu dārzos būtu patiesi baudāms un dvēselei ielīksmojošs notikums ikvienam gardēdim un smalku garšu cienītājam. Vēlamies panākt, lai vīna darīšanas tradīcijas Latvijā atkal nostiprinātos kā stabila mūsu kultūras sastāvdaļa un, lai mājas vīni ne tikai mūsu saimnniecībā, bet visai dārzkopības nozarei atkal kļūtu par veiksmīgu blakusproduktu no augļiem un ogām, ko esam spējīgi izaudzēt paši.
 
-#Baudiet vīnu vēstures elpu un romantiku!
+# Baudiet vīnu vēstures elpu un romantiku!
 
 Kuldīgā, grupām iepriekš piesakoties, atraktīva un zinoša gida pavadībā Smilškalni vīnus var degustēt senās Kuldīgas ordeņa pils pirmajā jeb pamatstāvā velvētajā telpā, kur hercoga Jēkaba laikos bijis vīna pagrabs.
 
 Lielākas grupas uzņemam Padures muižas klētī Padurē, tikai 5km no Kuldīgas, kur ir lieliska iespēja apvienot vīnu degustāciju ar Kurzemes nacionālajiem ēdieniem un Padures muižas klēts muzeja apskati. Tā ir Latvijā vienīgā 18.gs. celtā trīsstāvu klēts ar mansarda jumtu, kas saglabājusies līdz mūsu dienām.
 
 <figure class="center">
-			<img src="{{ site.baseurl }}/images/pagrabs.jpg" alt="Kuldīgas pilsētas dārzā, Livonijas ordeņa pils pagrabiņš. Vīndaris Alvils un gide Ludmila." title="Kuldīgas pilsētas dārzā, Livonijas ordeņa pils pagrabiņš. Vīndaris Alvils un gide Ludmila.">
+<img src="{{ site.baseurl }}/images/pagrabs.jpg" alt="Kuldīgas pilsētas dārzā, Livonijas ordeņa pils pagrabiņš. Vīndaris Alvils un gide Ludmila." title="Kuldīgas pilsētas dārzā, Livonijas ordeņa pils pagrabiņš. Vīndaris Alvils un gide Ludmila.">
 </figure>
