@@ -3,7 +3,7 @@ layout: page
 title: Par
 permalink: /par-mums/
 ---
-<h1 name="Latviesu-vins">Latviešu vīns</h1>
+<h1 id="Latviesu-vins">Latviešu vīns</h1>
 
 Latvieši vīna gatavošanai jau izsenis izmantojuši ogu kultūras, kas sastopamas pašmāju dārzos, jo Latvijas vasaras, ar vidējo gaisa temperatūru 15.8°C, ilgst caurmērā tikai 70 dienas gadā un saules ir daudz mazāk kā Eiropas reģionos, kur labi padodas izcilas vīnogu šķirnes.
 
