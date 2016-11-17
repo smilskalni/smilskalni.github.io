@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Par
-url: /par-mums/
+permalink: /par-mums/
 ---
 <h1 id="Latviesu-vins">Latviešu vīns</h1>
 
