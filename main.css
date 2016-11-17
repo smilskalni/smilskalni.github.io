@@ -34,10 +34,16 @@ header, footer, nav.navbar {
 .navbar-default .navbar-toggle .icon-bar {
  background-color: #ddd;
 }
+.navbar-nav>.open>a {
+ background-color: #fff;
+}
 .navbar-default .navbar-toggle:focus,
 .navbar-default .navbar-toggle:hover {
  background-color: #ba0f31;
 } 
+.navbar-default .navbar-nav .open .dropdown-menu>li>a {
+ color: white;
+}
 footer a, footer a:hover, footer a:visited, footer a:focus {
  color: white;
  text-decoration: none;
